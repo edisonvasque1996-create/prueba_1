@@ -1,2 +1,2 @@
-# prueba_1
-Prueba de integración MCP en Antigravity
+# Test MCP Antigravity
+Servidor funcionando correctamente
